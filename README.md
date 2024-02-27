@@ -1,9 +1,5 @@
 # React + Vite setup
 
-- Includes Jest
-- CSS Reset
-- theme presets
-
 ## Getting started
 
 ```bash
